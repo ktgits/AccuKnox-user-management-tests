@@ -1,1 +1,1 @@
-# -AccuKnox-user-management-tests
+# AccuKnox-user-management-tests
